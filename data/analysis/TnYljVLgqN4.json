@@ -1,0 +1,134 @@
+{
+  "_source": "editorial-review",
+  "needs_review": false,
+  "seo_title": "Best Korean Moisturizer 2026? Why a $4 Daiso Cream Beat Dior",
+  "dek": "A 1M-subscriber Korean critic tested 40 creams, from Daiso to Dior. The comment thread underneath is a lesson in how Koreans actually shop.",
+  "hero_emoji": "🧴",
+  "takeaway": {
+    "why_korea": "Director Pi (1.03M subscribers) buys every product herself, runs device measurements and a subscriber test panel, then publishes one ranked cream list each winter. Korean viewers treat the upload as a shopping deadline rather than a review — comments show people waiting for the video before buying, and ordering the barrier cream and the 5,000-won Daiso repair cream the same evening.",
+    "best_for": "Dry and dehydrated-oily skin, barrier damage from winter heating, and anyone weighing a luxury cream against a 20,000-won one.",
+    "skip_if": "Very oily or acne-prone skin — she flags the rich wrapping and night creams as makeup-pilling and breakout risks.",
+    "korean_price_krw": "5,000원 (Daiso SOS cream) – 195,000원 (Dior Capture Crème Jour)"
+  },
+  "products": [
+    {
+      "name_en": "COSRX The Ceramide Skin Barrier Moisturizer",
+      "name_ko": "코스알엑스 더 세라마이드 스킨 베리어 모이스처라이저 (80ml / 25,000원)",
+      "why": "2026 barrier-cream winner: light ceramide layers, tested on acne-prone skin."
+    },
+    {
+      "name_en": "Fusiderm Barrier Repair SOS Cream (Daiso)",
+      "name_ko": "후시덤 베리어 리페어 에스오에스 크림 (40ml / 5,000원)",
+      "why": "Repair top pick at 5,000 won — the cheapest winner on a 40-product list."
+    },
+    {
+      "name_en": "AESTURA ATOBARRIER365 Cream",
+      "name_ko": "에스트라 아토베리어365 크림 (80ml / 33,000원)",
+      "why": "Named a lifetime dry-skin item by the most-liked commenter."
+    },
+    {
+      "name_en": "ZEROID Intensive Cream",
+      "name_ko": "제로이드 인텐시브 크림 (80ml / 32,000원)",
+      "why": "Barrier pick for dehydrated and combination skin; oily skin takes the Soothing version."
+    },
+    {
+      "name_en": "Torriden Dive-In Soothing Cream",
+      "name_ko": "토리든 다이브인 저분자 히알루론산 수딩 크림 (100ml / 24,000원)",
+      "why": "Gel-cream for oily and combination skin that does not pill under makeup."
+    }
+  ],
+  "sentiment": {
+    "positive_pct": 84,
+    "negative_pct": 11,
+    "ad_suspicion_pct": 5,
+    "method": "editorial review of 80 top comments, weighted by likes",
+    "sample_size": 80,
+    "note": "An unusually loyal audience. The friction is about what got left out of the ranking, not about whether the ranking is honest."
+  },
+  "quote_specs": [
+    {
+      "match": "예전 영상인줄",
+      "en": "I clicked thinking it was the old video — turns out it's new. Feels like winning the lottery.",
+      "tone": "positive"
+    },
+    {
+      "match": "보습 챙겨도 일단 안긁어야",
+      "en": "Moisturising helps, but the first rule is: don't scratch. If your hands keep wandering, slap on some ato cream and go do something else — by the time you're sorting documents you've forgotten your face.",
+      "tone": "positive"
+    },
+    {
+      "match": "솔직히 모든 TOP OF TOP중",
+      "en": "Honestly, of all the TOP of TOP categories, the most important — and the real kicker — is moisturiser.",
+      "tone": "positive"
+    },
+    {
+      "match": "다이소 제품도 포함해주셔서",
+      "en": "Thank you for including the Daiso products too!",
+      "tone": "positive"
+    },
+    {
+      "match": "전에 영상에서 싸이닉 더 심플",
+      "en": "You once said Scinic's Simply Relief moisturiser was good — is there a reason it dropped out this time?",
+      "tone": "critical"
+    }
+  ],
+  "caveat": "The 5,000-won Daiso pick is a 5% panthenol ointment with a heavy occlusive base — acne-prone skin can break out from that much occlusion, so patch test before covering the face.",
+  "us_search_terms": [
+    "COSRX ceramide skin barrier moisturizer",
+    "Fusiderm barrier repair SOS cream",
+    "Aestura Atobarrier 365 cream",
+    "Torriden Dive In soothing cream"
+  ],
+  "body": [
+    "Every winter the same question runs through Korean skincare forums: is the cream you are paying 80,000 won for actually better than the one on the Daiso shelf for 5,000? Director Pi answers it the expensive way — she buys all 40 products herself, measures them on the same instruments, then has a subscriber panel score them blind. This year's list runs from a 195,000-won Dior jar to a 5,000-won Daiso tube, and the ranking is not ordered by price.",
+    "The two winners worth knowing are the ones that cost least to try. COSRX's ceramide moisturiser took the barrier category for being light enough to layer under makeup, and the Daiso Fusiderm SOS cream took the repair category on a 5% panthenol formula that commenters describe as a night-only rescue. Above them, the most-liked comment of all recommends AESTURA's ATOBARRIER365 as a decade-long staple for dry skin.",
+    "What the comment section adds is the part no ranking can: the habits and the hedging. One highly-liked commenter points out that no cream beats not scratching your face, and another admits she went to buy a moisturiser, saw the upload was due, and went home to wait for it. The most-liked comment of all says the humble moisturiser, not the serums, is the category that actually decides your skin — which is also the quiet thesis of the video."
+  ],
+  "comment_quotes": [
+    {
+      "ko": "예전 영상인줄 알고 눌렀는데, 새 영상이라 복권 당첨된 느낌",
+      "en": "I clicked thinking it was the old video — turns out it's new. Feels like winning the lottery.",
+      "likes": 407,
+      "author": "@김삿갓-y4i",
+      "tone": "positive",
+      "label": null,
+      "note": null
+    },
+    {
+      "ko": "보습 챙겨도 일단 안긁어야 되더라;;자꾸 손가는 사람은 아토나 뿌려놓고 하던거 해보세요 문서 정리하다 보면 그쪽 만지는거 잊고 있음ㅋㅋ",
+      "en": "Moisturising helps, but the first rule is: don't scratch. If your hands keep wandering, slap on some ato cream and go do something else — by the time you're sorting documents you've forgotten your face.",
+      "likes": 163,
+      "author": "@김영해-y3e",
+      "tone": "positive",
+      "label": null,
+      "note": null
+    },
+    {
+      "ko": "솔직히 모든 TOP OF TOP중 가장 중요하고 킥인건 수분크림같아요",
+      "en": "Honestly, of all the TOP of TOP categories, the most important — and the real kicker — is moisturiser.",
+      "likes": 161,
+      "author": "@chanssong3233",
+      "tone": "positive",
+      "label": null,
+      "note": null
+    },
+    {
+      "ko": "다이소 제품도 포함해주셔서 너무 좋아요!",
+      "en": "Thank you for including the Daiso products too!",
+      "likes": 53,
+      "author": "@whatyour-o2y",
+      "tone": "positive",
+      "label": null,
+      "note": null
+    },
+    {
+      "ko": "전에 영상에서 싸이닉 더 심플 릴리프 수분 크림 좋다고 하셨는데 빠진 이유가 있을까요??",
+      "en": "You once said Scinic's Simply Relief moisturiser was good — is there a reason it dropped out this time?",
+      "likes": 1,
+      "author": "@rlams12",
+      "tone": "critical",
+      "label": null,
+      "note": null
+    }
+  ]
+}

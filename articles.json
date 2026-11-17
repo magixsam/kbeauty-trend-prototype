@@ -1,0 +1,521 @@
+{
+  "site": {
+    "name": "SEOUL SCAN",
+    "tagline": "K-beauty trends, read straight from Korean comments.",
+    "edition": "Prototype Edition · November 2026",
+    "generated_at": "2026-11-17T23:37:23+09:00",
+    "locale": "en-US"
+  },
+  "categories": [
+    "All",
+    "Skincare",
+    "Sunscreen",
+    "Olive Young Picks"
+  ],
+  "articles": [
+    {
+      "id": "TnYljVLgqN4",
+      "category": "Skincare",
+      "title": "Best Korean Moisturizer 2026? Why a $4 Daiso Cream Beat Dior",
+      "title_ko": "2026 수분크림  1위는? 백화점부터 다이소까지 40여종 성분, 효과 비교 추천, 비추천 I Best Moisturizers by Directorpi",
+      "dek": "A 1M-subscriber Korean critic tested 40 creams, from Daiso to Dior. The comment thread underneath is a lesson in how Koreans actually shop.",
+      "hero_emoji": "🧴",
+      "source": {
+        "video_id": "TnYljVLgqN4",
+        "url": "https://www.youtube.com/watch?v=TnYljVLgqN4",
+        "embed_url": "https://www.youtube.com/embed/TnYljVLgqN4",
+        "title": "2026 수분크림  1위는? 백화점부터 다이소까지 40여종 성분, 효과 비교 추천, 비추천 I Best Moisturizers by Directorpi",
+        "channel": "디렉터파이",
+        "channel_handle": "@director_pihyunjung",
+        "subscribers": "구독자 103만명",
+        "views": 333617,
+        "views_text": "조회수 333,617회",
+        "likes": 2605,
+        "published": "2026. 11. 6."
+      },
+      "takeaway": {
+        "why_korea": "Director Pi (1.03M subscribers) buys every product herself, runs device measurements and a subscriber test panel, then publishes one ranked cream list each winter. Korean viewers treat the upload as a shopping deadline rather than a review — comments show people waiting for the video before buying, and ordering the barrier cream and the 5,000-won Daiso repair cream the same evening.",
+        "best_for": "Dry and dehydrated-oily skin, barrier damage from winter heating, and anyone weighing a luxury cream against a 20,000-won one.",
+        "skip_if": "Very oily or acne-prone skin — she flags the rich wrapping and night creams as makeup-pilling and breakout risks.",
+        "korean_price_krw": "5,000원 (Daiso SOS cream) – 195,000원 (Dior Capture Crème Jour)"
+      },
+      "products": [
+        {
+          "name_en": "COSRX The Ceramide Skin Barrier Moisturizer",
+          "name_ko": "코스알엑스 더 세라마이드 스킨 베리어 모이스처라이저 (80ml / 25,000원)",
+          "why": "2026 barrier-cream winner: light ceramide layers, tested on acne-prone skin."
+        },
+        {
+          "name_en": "Fusiderm Barrier Repair SOS Cream (Daiso)",
+          "name_ko": "후시덤 베리어 리페어 에스오에스 크림 (40ml / 5,000원)",
+          "why": "Repair top pick at 5,000 won — the cheapest winner on a 40-product list."
+        },
+        {
+          "name_en": "AESTURA ATOBARRIER365 Cream",
+          "name_ko": "에스트라 아토베리어365 크림 (80ml / 33,000원)",
+          "why": "Named a lifetime dry-skin item by the most-liked commenter."
+        },
+        {
+          "name_en": "ZEROID Intensive Cream",
+          "name_ko": "제로이드 인텐시브 크림 (80ml / 32,000원)",
+          "why": "Barrier pick for dehydrated and combination skin; oily skin takes the Soothing version."
+        },
+        {
+          "name_en": "Torriden Dive-In Soothing Cream",
+          "name_ko": "토리든 다이브인 저분자 히알루론산 수딩 크림 (100ml / 24,000원)",
+          "why": "Gel-cream for oily and combination skin that does not pill under makeup."
+        }
+      ],
+      "sentiment": {
+        "positive_pct": 84,
+        "negative_pct": 11,
+        "ad_suspicion_pct": 5,
+        "method": "editorial review of 80 top comments, weighted by likes",
+        "sample_size": 80,
+        "note": "An unusually loyal audience. The friction is about what got left out of the ranking, not about whether the ranking is honest."
+      },
+      "comment_quotes": [
+        {
+          "ko": "예전 영상인줄 알고 눌렀는데, 새 영상이라 복권 당첨된 느낌",
+          "en": "I clicked thinking it was the old video — turns out it's new. Feels like winning the lottery.",
+          "likes": 407,
+          "author": "@김삿갓-y4i",
+          "tone": "positive",
+          "label": null,
+          "note": null
+        },
+        {
+          "ko": "보습 챙겨도 일단 안긁어야 되더라;;자꾸 손가는 사람은 아토나 뿌려놓고 하던거 해보세요 문서 정리하다 보면 그쪽 만지는거 잊고 있음ㅋㅋ",
+          "en": "Moisturising helps, but the first rule is: don't scratch. If your hands keep wandering, slap on some ato cream and go do something else — by the time you're sorting documents you've forgotten your face.",
+          "likes": 163,
+          "author": "@김영해-y3e",
+          "tone": "positive",
+          "label": null,
+          "note": null
+        },
+        {
+          "ko": "솔직히 모든 TOP OF TOP중 가장 중요하고 킥인건 수분크림같아요",
+          "en": "Honestly, of all the TOP of TOP categories, the most important — and the real kicker — is moisturiser.",
+          "likes": 161,
+          "author": "@chanssong3233",
+          "tone": "positive",
+          "label": null,
+          "note": null
+        },
+        {
+          "ko": "다이소 제품도 포함해주셔서 너무 좋아요!",
+          "en": "Thank you for including the Daiso products too!",
+          "likes": 53,
+          "author": "@whatyour-o2y",
+          "tone": "positive",
+          "label": null,
+          "note": null
+        },
+        {
+          "ko": "전에 영상에서 싸이닉 더 심플 릴리프 수분 크림 좋다고 하셨는데 빠진 이유가 있을까요??",
+          "en": "You once said Scinic's Simply Relief moisturiser was good — is there a reason it dropped out this time?",
+          "likes": 1,
+          "author": "@rlams12",
+          "tone": "critical",
+          "label": null,
+          "note": null
+        }
+      ],
+      "caveat": "The 5,000-won Daiso pick is a 5% panthenol ointment with a heavy occlusive base — acne-prone skin can break out from that much occlusion, so patch test before covering the face.",
+      "us_search_terms": [
+        "COSRX ceramide skin barrier moisturizer",
+        "Fusiderm barrier repair SOS cream",
+        "Aestura Atobarrier 365 cream",
+        "Torriden Dive In soothing cream"
+      ],
+      "body": [
+        "Every winter the same question runs through Korean skincare forums: is the cream you are paying 80,000 won for actually better than the one on the Daiso shelf for 5,000? Director Pi answers it the expensive way — she buys all 40 products herself, measures them on the same instruments, then has a subscriber panel score them blind. This year's list runs from a 195,000-won Dior jar to a 5,000-won Daiso tube, and the ranking is not ordered by price.",
+        "The two winners worth knowing are the ones that cost least to try. COSRX's ceramide moisturiser took the barrier category for being light enough to layer under makeup, and the Daiso Fusiderm SOS cream took the repair category on a 5% panthenol formula that commenters describe as a night-only rescue. Above them, the most-liked comment of all recommends AESTURA's ATOBARRIER365 as a decade-long staple for dry skin.",
+        "What the comment section adds is the part no ranking can: the habits and the hedging. One highly-liked commenter points out that no cream beats not scratching your face, and another admits she went to buy a moisturiser, saw the upload was due, and went home to wait for it. The most-liked comment of all says the humble moisturiser, not the serums, is the category that actually decides your skin — which is also the quiet thesis of the video."
+      ],
+      "data_quality": {
+        "comments_collected": 80,
+        "transcript_source": "cache",
+        "transcript_chars": 13740,
+        "analysis_source": "editorial-review",
+        "needs_review": false
+      }
+    },
+    {
+      "id": "_AQnAKA1w7o",
+      "category": "Sunscreen",
+      "title": "Are Korean Sunscreens Safer? What 48 Products Reveal About US Filters",
+      "title_ko": "(Eng) 2026 선크림 1위는?🥇48종 비교 추천 🔥더마, 무기, 유기, 톤업 최고의 제품은?  성분, 기기 측정 결과 I Best Sunscreens by Directorpi",
+      "dek": "Korea's most-watched sunscreen ranking filters out five UV filters that are still standard in American sunscreens — and the comments argue about what that proves.",
+      "hero_emoji": "☀️",
+      "source": {
+        "video_id": "_AQnAKA1w7o",
+        "url": "https://www.youtube.com/watch?v=_AQnAKA1w7o",
+        "embed_url": "https://www.youtube.com/embed/_AQnAKA1w7o",
+        "title": "(Eng) 2026 선크림 1위는?🥇48종 비교 추천 🔥더마, 무기, 유기, 톤업 최고의 제품은?  성분, 기기 측정 결과 I Best Sunscreens by Directorpi",
+        "channel": "디렉터파이",
+        "channel_handle": "@director_pihyunjung",
+        "subscribers": "구독자 103만명",
+        "views": 286620,
+        "views_text": "조회수 286,620회",
+        "likes": 2184,
+        "published": "2026. 5. 24."
+      },
+      "takeaway": {
+        "why_korea": "Korean shoppers read a sunscreen's ingredient table the way Americans read a nutrition label, so the annual ranking is a 25-minute, 48-product document rather than a top-ten list. This year's video opened by naming five UV filters being restricted in the EU and flagged as reef-harmful — including avobenzone and octocrylene, the backbone of many US sunscreens — and closed with separate winners for mineral, chemical, hybrid and tone-up formulas. It also carries a paid-ad label added after upload, which the top comments noticed.",
+        "best_for": "Anyone buying K-beauty sunscreen abroad or from a US K-beauty retailer; there is a distinct winner for dry, oily, acne-prone and makeup-first skin.",
+        "skip_if": "You want one single best product. The picks are split by filter type and skin type, and the most-liked complaints are about exactly that complexity and about top picks from brands nobody has heard of.",
+        "korean_price_krw": "18,000원 (Beauty of Joseon) – 36,000원 (ISOI / d'Alba)"
+      },
+      "products": [
+        {
+          "name_en": "Beauty of Joseon Relief Sun: Rice + Probiotics",
+          "name_ko": "조선미녀 맑은쌀 선크림 : 고아미+프로바이오틱스 (50ml / 18,000원)",
+          "why": "Chemical, SPF50+ PA++++, spreads evenly by hand and rated comfortable in heat with little eye sting."
+        },
+        {
+          "name_en": "numbuzin No.3 Porcelain Base-Skip Tone-Up Beige",
+          "name_ko": "넘버즈인 3번 도자기결 톤업베이지 선크림 (50ml / 26,000원)",
+          "why": "2026 top pick for foundation-replacement tone-up: semi-matte, sweat-resistant, cleansing oil required."
+        },
+        {
+          "name_en": "Arocell Mela Tranex Sun Serum",
+          "name_ko": "아로셀 멜라 트라넥스 선 세럼 (40ml / 30,000원)",
+          "why": "Dry-skin top pick built around tranexamic acid, arbutin and niacinamide for dark spots."
+        },
+        {
+          "name_en": "Fucidin Derma Trouble Zinc Calming Sunscreen",
+          "name_ko": "후시다인 더마 트러블 징크 카밍 선크림 (50ml / 26,000원)",
+          "why": "17% zinc oxide mineral pick for sensitive, acne-prone skin; applies like a lotion."
+        },
+        {
+          "name_en": "Innisfree Daily UV Tone-Up No Sebum",
+          "name_ko": "이니스프리 데일리 유브이 톤업 노세범 선크림 (50ml / 20,000원)",
+          "why": "Matte tone-up winner with no fragrance or ethanol — built for oily skin in summer."
+        }
+      ],
+      "sentiment": {
+        "positive_pct": 68,
+        "negative_pct": 20,
+        "ad_suspicion_pct": 12,
+        "method": "editorial review of 80 top comments, weighted by likes",
+        "sample_size": 80,
+        "note": "The most contested comment section of the four. Praise is for the depth; the criticism is methodological — arbitrary categories, unfamiliar winning brands, and a paid-ad label that appeared after upload."
+      },
+      "comment_quotes": [
+        {
+          "ko": "후기에 눈시림 여부 포함해달라는 의견에 저도 한 표....!",
+          "en": "Add 'does it sting your eyes' to the reviews — I vote for that too!",
+          "likes": 229,
+          "author": "@littlebylittle2023",
+          "tone": "positive",
+          "label": null,
+          "note": null
+        },
+        {
+          "ko": "TOP 제품들이 너무 듣도보도 못한 브랜드뿐이라, 구입이 망설여지네요.",
+          "en": "The top picks are all brands I've never once heard of, so I hesitate to buy.",
+          "likes": 95,
+          "author": "@핑크하마",
+          "tone": "critical",
+          "label": null,
+          "note": null
+        },
+        {
+          "ko": "후시다인에 정착하려그랬는데 안 팔아요",
+          "en": "I was going to settle on Fusiderm, but they don't sell it.",
+          "likes": 13,
+          "author": "@sophiec3650",
+          "tone": "critical",
+          "label": null,
+          "note": null
+        },
+        {
+          "ko": "워터프르푸도 해주세요 작년 추천템 비플레인은 단종인가바요ㅠㅠ",
+          "en": "Please do a waterproof edition too — last year's pick, Beplain, looks like it's been discontinued.",
+          "likes": 37,
+          "author": "@hjseo7845",
+          "tone": "positive",
+          "label": null,
+          "note": null
+        },
+        {
+          "ko": "[2026년 06월 01일 공지 추가] 2026년 05월 21일 영상 업로드 이후, 일부 브랜드사에서 영상 사용 계약 요청이 와 일정 기간 브랜드사 제품이 노출된 구간 영상을 라이선스 계약을 통해 사용할 수 있도록 하였습니다. 이에 2026년 06월 01일, 유료 광고 표시가 없던 영상에 유료 광고 포함 표시를 추가하였습니다. 사용 기간이 끝나면, 유료 광고 포함 표시와 해당 글은 삭제됩니다. \n제품 : 아로셀 멜라 트라넥스 선 세럼",
+          "en": "[Notice added 1 June 2026] After this video went up on 21 May 2026, some brands asked to license the segments where their products appear, so we have added a paid-promotion disclosure to a video that originally carried none.",
+          "likes": 38,
+          "author": "@director_pihyunjung",
+          "tone": "ad-skeptic",
+          "label": "Paid-ad notice",
+          "note": "The channel's own pinned disclosure, 38 likes — the clearest document of how K-beauty review videos get retro-labelled."
+        }
+      ],
+      "caveat": "Several top picks are built on filters the FDA has not approved (Tinosorb S, Uvinul A Plus, Mexoryl SX), so they cannot legally be sold as US sunscreens. Importing one means the SPF on the box is a Korean test result, not an FDA one — and the zinc-only pick is the safer bet if you burn easily.",
+      "us_search_terms": [
+        "Beauty of Joseon Relief Sun rice probiotics",
+        "numbuzin No 3 tone up beige sunscreen",
+        "Arocell Mela Tranex sun serum",
+        "Fucidin derma trouble zinc calming sunscreen"
+      ],
+      "body": [
+        "American sunscreen and Korean sunscreen are not the same product category wearing different packaging. The US regulates UV filters as drugs and has approved roughly a dozen, most of them decades old; Korea approves newer, photo-stable filters that also happen to feel lighter. Director Pi opens this 25-minute ranking by naming five filters that are being restricted in the EU and flagged as harmful to marine ecosystems — avobenzone, octocrylene, ethylhexyl methoxycinnamate among them — and notes that several famous Western sunscreens are built on exactly those.",
+        "She then sorts 48 products into mineral, chemical, hybrid and tone-up groups, and picks a winner in each. For most overseas buyers the useful ones are Beauty of Joseon's Relief Sun (18,000 won, the comfortable everyday chemical option that spreads evenly by hand) and numbuzin's No.3 tone-up, which sits somewhere between sunscreen and a sheer foundation. If your skin reacts to chemical filters, the Fucidin zinc formula is the sensitive-skin pick; if you are oily, the Innisfree no-sebum tone-up is the matte one.",
+        "The comments are worth reading precisely because they do not simply applaud. The two most-liked threads ask for eye-sting data and complain that every top pick is an unknown brand — the same objection a US reader will have, since none of these are stocked at a drugstore. A separate thread catches that the video was labelled as containing paid promotion a week after upload, which the channel explains in a pinned comment. Treat the ranking as a well-documented shortlist and check the filter list yourself before you import."
+      ],
+      "data_quality": {
+        "comments_collected": 80,
+        "transcript_source": "cache",
+        "transcript_chars": 5250,
+        "analysis_source": "editorial-review",
+        "needs_review": false
+      }
+    },
+    {
+      "id": "zKktadnuSWc",
+      "category": "Olive Young Picks",
+      "title": "What Does a Dermatologist Buy at Olive Young for Under $10?",
+      "title_ko": "\"이게 만원대..?\" 가성비 좋은 올리브영 필수템 5가지를 20년차 피부과 전문의가 알려드립니다",
+      "dek": "A 20-year dermatologist picks five Olive Young items with one verb each — erase, fill, cover, smooth, protect — and 1.75M viewers rebuild their routine around it.",
+      "hero_emoji": "🛍️",
+      "source": {
+        "video_id": "zKktadnuSWc",
+        "url": "https://www.youtube.com/watch?v=zKktadnuSWc",
+        "embed_url": "https://www.youtube.com/embed/zKktadnuSWc",
+        "title": "\"이게 만원대..?\" 가성비 좋은 올리브영 필수템 5가지를 20년차 피부과 전문의가 알려드립니다",
+        "channel": "피부는 성현철",
+        "channel_handle": "@%ED%94%BC%EB%B6%80%EB%8A%94%EC%84%B1%ED%98%84%EC%B2%A0",
+        "subscribers": "구독자 25.9만명",
+        "views": 1755720,
+        "views_text": "조회수 1,755,720회",
+        "likes": 8977,
+        "published": "2026. 8. 30."
+      },
+      "takeaway": {
+        "why_korea": "Olive Young sale weeks are a national shopping event, and dermatologist-run channels have become the trusted filter over influencer hauls. This video is built as five verbs rather than five products, so viewers can slot it into a routine they already have, and the top comment is a viewer's own five-item recap with 547 likes — the comment section writes the shopping list for everyone else.",
+        "best_for": "Beginners assembling a first five-step routine; dry, sensitive or combination skin; anyone retinol-curious who wants the gentlest entry.",
+        "skip_if": "You want actives at prescription strength. Everything here is deliberately mild, and the retinol pick is a low-strength starter.",
+        "korean_price_krw": "10,000원대 (마녀공장 클렌징 오일) – 30,000원대 (테라로직 레티놀크림)"
+      },
+      "products": [
+        {
+          "name_en": "Ma:nyo Pure Cleansing Oil",
+          "name_ko": "마녀공장 퓨어클렌징 오일",
+          "why": "Step one, 'erase': the cleansing oil that both the doctor and the top comment start with."
+        },
+        {
+          "name_en": "Torriden Dive-In Low Molecular Hyaluronic Ampoule",
+          "name_ko": "토리든 다이브인 저분자 히알루론산 앰플",
+          "why": "Step two, 'fill': hydrating layer the comments assign to dry skin, with Wellage for oily skin."
+        },
+        {
+          "name_en": "ZEROID Intensive Cream",
+          "name_ko": "제로이드 인텐시브 크림",
+          "why": "Step three, 'cover': the barrier cream he recommends for dry and reactive skin."
+        },
+        {
+          "name_en": "Theralogic Retinol Cream (+ Madecell moisturiser)",
+          "name_ko": "테라로직 레티놀크림 (+ 마데셀 보습크림)",
+          "why": "Step four, 'smooth': a low-strength retinol built as an entry point, buffered with a cream."
+        },
+        {
+          "name_en": "Round Lab Birch Juice Moisturizing Sunscreen",
+          "name_ko": "라운드랩 자작나무 수분 선크림",
+          "why": "Step five, 'protect': organic-filter daily sunscreen — and the one product commenters push back on hardest."
+        }
+      ],
+      "sentiment": {
+        "positive_pct": 78,
+        "negative_pct": 14,
+        "ad_suspicion_pct": 8,
+        "method": "editorial review of 80 top comments, weighted by likes",
+        "sample_size": 80,
+        "note": "Trust in the doctor is high and the purchase intent is visible. The scepticism is aimed at one product (the cleansing oil) and at copy-paste promo comments pedalling unrelated ampoules."
+      },
+      "comment_quotes": [
+        {
+          "ko": "와 원장님 제가 쓰는 제품들 다 나오네요 ㅎㅎ 저는 이것저것 발라보고 웰라쥬와 토리든 쓰고있고 제로이드 가격때문에 안썼는데 이제까지 써본제품 중에 가장 좋았습니다. 지금 소개하신 제품들이 확실히 순한얘들이라서 맘에 듭니다 ㅎㅎ 정보 감사합니다 ㅎㅎ",
+          "en": "Wow, doctor — almost everything I use showed up here. I've tried a bit of everything and settled on Wellage and Torriden; I'd avoided ZEROID because of the price, but it's been the best of anything I've used. It's reassuring that everything you recommend is this gentle.",
+          "likes": 7,
+          "author": "@후들-y8n",
+          "tone": "positive",
+          "label": null,
+          "note": null
+        },
+        {
+          "ko": "마녀공장 클렌징오일 안맞는 사람은 피부 개뒤집어짐",
+          "en": "If the Ma:nyo cleansing oil doesn't suit you, your skin flips completely.",
+          "likes": 130,
+          "author": "@그림-액자",
+          "tone": "critical",
+          "label": null,
+          "note": null
+        },
+        {
+          "ko": "마녀공장 오일 유명해서 사봤는데 ..너무 오일리하고 텁텁함 다 자기한테 맞는게 있는듯",
+          "en": "I bought the Ma:nyo oil because it's famous, but it's so oily and suffocating. Everyone has their own match, I guess.",
+          "likes": 71,
+          "author": "@kkomi6034",
+          "tone": "critical",
+          "label": null,
+          "note": null
+        },
+        {
+          "ko": "자작나무는 빼세요!\n눈시림 심하고 자극적이고 차단 안되요..\n여러 선크림 동시에 같은양 발라서 테스트 하는 영상들 마니 있는데 자작나무가 거의 꼴등이에요..",
+          "en": "Drop the birch one! It stings the eyes badly, it's irritating, and it doesn't block much — there are plenty of videos testing sunscreens side by side at the same dose, and the birch one comes near last.",
+          "likes": 10,
+          "author": "@moon-light-jun",
+          "tone": "critical",
+          "label": null,
+          "note": "A direct counterpoint to the video's final 'protect' step, from a commenter with 10 likes."
+        },
+        {
+          "ko": "저는 주름이랑 기미가 고민이라 올리브영 세일마다 헤맸는데, 결국 피부과 실장님이 알려준 바‌‍데‍‌​콜‍린 앰플이 제일 효과 좋았어요. 탄력도 차오르고 잔주름이 옅어져서 이제 이것만 써요.",
+          "en": "I always wandered the Olive Young sale unsure what to buy for wrinkles and pigmentation, until a clinic manager told me about this ampoule — now it's the only thing I use.",
+          "likes": 9,
+          "author": "@소현-z6d",
+          "tone": "ad-skeptic",
+          "label": "Ad spam",
+          "note": "Copy-paste promo comment from an account plugging an unrelated ampoule; several near-identical versions rank in the top 20. Real evidence of how ad spam colonises Korean comment sections."
+        }
+      ],
+      "caveat": "Two cautions from the comment section itself: the Ma:nyo cleansing oil is the product most often named as a breakout trigger, and commenters argue the Round Lab birch sunscreen stings the eyes — patch test both before committing. The retinol is a starter strength; do not stack it with acids or prescription tretinoin.",
+      "us_search_terms": [
+        "Ma:nyo pure cleansing oil",
+        "Torriden Dive In hyaluronic acid ampoule",
+        "Zeroid intensive cream",
+        "Round Lab birch juice moisturizing sunscreen"
+      ],
+      "body": [
+        "Most routine videos fail because they assume you are starting from nothing. This one is organised around five verbs — erase, fill, cover, smooth, protect — which is why 1.75 million people watched a dermatologist walk through five Olive Young products in seventeen minutes. Each step is one product, all of them pharmacy-adjacent and mild, and the cheapest sits in the 10,000-won range.",
+        "The five are Ma:nyo's cleansing oil, a hyaluronic ampoule (Torriden for dry skin, Wellage for oily), ZEROID's barrier cream, a low-strength Theralogic retinol buffered with a moisturiser, and Round Lab's birch-juice sunscreen. What makes the video useful is the order: the retinol comes after the barrier cream, which is the sequencing most English-language retinol content skips.",
+        "The comment section does two jobs at once. The most-liked comment is a viewer's own recap of all five products with a note on which ampoule suits which skin type — effectively a free table of contents with 547 likes. And threaded among the genuine questions are two kinds of noise worth learning to spot: copy-paste promo comments pushing an unrelated ampoule, and a real disagreement about the sunscreen step, where commenters say the birch formula stings their eyes. Read the thread as a correction layer, not a fan club."
+      ],
+      "data_quality": {
+        "comments_collected": 80,
+        "transcript_source": "missing",
+        "transcript_chars": 0,
+        "analysis_source": "editorial-review",
+        "needs_review": false
+      }
+    },
+    {
+      "id": "Sxx2TdbDzkc",
+      "category": "Olive Young Picks",
+      "title": "What Do Koreans Buy at an Olive Young Sale? A VIP Shopper's Cart",
+      "title_ko": "[ENG]NO광고❌백화점 VIP가 세일 아닐 때도 쟁이는 올리브영 찐템🛍️본업천재의 올리브영 쇼핑차력쇼|K뷰티 화장품 추천",
+      "dek": "A shopper who normally buys at department stores empties an Olive Young cart during sale week — and viewers order the same items on the app before the video ends.",
+      "hero_emoji": "🧺",
+      "source": {
+        "video_id": "Sxx2TdbDzkc",
+        "url": "https://www.youtube.com/watch?v=Sxx2TdbDzkc",
+        "embed_url": "https://www.youtube.com/embed/Sxx2TdbDzkc",
+        "title": "[ENG]NO광고❌백화점 VIP가 세일 아닐 때도 쟁이는 올리브영 찐템🛍️본업천재의 올리브영 쇼핑차력쇼|K뷰티 화장품 추천",
+        "channel": "유리하다",
+        "channel_handle": "@yurihada",
+        "subscribers": "구독자 19.2만명",
+        "views": 265874,
+        "views_text": "조회수 265,874회",
+        "likes": 2774,
+        "published": "2025. 8. 29."
+      },
+      "takeaway": {
+        "why_korea": "Olive Young's sale calendar sets the rhythm of Korean beauty buying, and creators race to publish 'what I actually repurchase' lists on day one of the sale. This one works because it is framed against luxury counters — a shopper who normally buys department-store brands says the Olive Young picks beat them — and because the cart mixes skincare with makeup, so it reads like a real basket rather than a sponsorship list.",
+        "best_for": "Restocking basics: a micellar cleanser, a ceramide body-and-face cream, toner pads, and a tint and mascara that survive a Korean summer.",
+        "skip_if": "You are building a routine from zero or want actives. This is a repurchase haul, not a regimen.",
+        "korean_price_krw": "10,000원대 – 30,000원대 (세일가 기준)"
+      },
+      "products": [
+        {
+          "name_en": "Bioderma Sensibio H2O",
+          "name_ko": "바이오더마 센시비오 H20",
+          "why": "Micellar water she repurchases; the comment consensus is that it needs a second cleanse."
+        },
+        {
+          "name_en": "Illiyoon Ceramide Ato Concentrate Cream",
+          "name_ko": "일리윤 세라마이드 아토 집중크림",
+          "why": "The winter saviour a commenter credits for cracked, wind-burned arms and legs."
+        },
+        {
+          "name_en": "Rejuran Toner Pad",
+          "name_ko": "리쥬란 토너패드",
+          "why": "Sale-day pad restock; commenters say they waited for the discount to buy it."
+        },
+        {
+          "name_en": "Rom&nd Juicy Lasting Tint",
+          "name_ko": "롬앤 더 쥬시 래스팅 틴트",
+          "why": "The lip that sells out whenever she shows it — viewers blame her for the stockouts."
+        },
+        {
+          "name_en": "Clio Kill Lash Superproof Mascara",
+          "name_ko": "클리오 킬래쉬 수퍼프루프 마스카라",
+          "why": "Summer-proof mascara pick; comments recommend pairing it with Clio's own remover."
+        }
+      ],
+      "sentiment": {
+        "positive_pct": 86,
+        "negative_pct": 6,
+        "ad_suspicion_pct": 8,
+        "method": "editorial review of 80 top comments, weighted by likes",
+        "sample_size": 80,
+        "note": "Purchase-intent comments dominate — people report ordering the cart minutes after watching. The single most-liked comment is a detailed packaging complaint about one tint."
+      },
+      "comment_quotes": [
+        {
+          "ko": "좀전에 영상보고 바로 올영 어플로 오늘드림으로 시켰더니 지금 왔네요ㅎㅎ 이토록 편한 세상이라니~~~오징어까지 목록 야무지게 쫘르르 구매완료에요^^",
+          "en": "I watched this and ordered the whole list on the Olive Young app for same-day delivery — it just arrived. What a world.",
+          "likes": 6,
+          "author": "@0여름궁전",
+          "tone": "positive",
+          "label": null,
+          "note": null
+        },
+        {
+          "ko": "3:37 일리윤 세라마이드 아토 집중크림.. 저의 겨울 구원템 입니다. 추운 겨울바람에 팔다리 살이 트고 빨게지고 따가워지는 사람인데 그럴때 다른 바디로션이나 크림 잘못 골라 바르면 더 따갑고 잘 진정되지도 않거든요.. 근데 일리윤 크림은 따가운 피부에 발라도 전혀 따갑지 않고 오히려 따가운거 진정시켜줍니다. 순하고 보습 효과도 최고예요. 일리윤 펌핑타입 바디로션보다 영상에서 소개해주신 튜브타입 크림이 찐으로 좋으니까 안써보신 분들 겨울에 꼭 써보세요!!",
+          "en": "Illiyoon's ceramide cream at 3:37 is my winter saviour. My arms and legs crack and sting in the cold wind, and the wrong body lotion only makes it worse.",
+          "likes": 6,
+          "author": "@lovelynabee",
+          "tone": "positive",
+          "label": null,
+          "note": null
+        },
+        {
+          "ko": "온니...클리오마스카라나...치크..립..등등 죄다. 언니때무네ㅋ 품절대란잉가효😅  그냥 유리하다 뷰듸❤ 채널을 하나 맹급시당ㅋ❤",
+          "en": "Unnie, the Clio mascara, the cheek, the lip — everything you showed is sold out because of you. Just launch your own channel already.",
+          "likes": 5,
+          "author": "@넛지-d8h",
+          "tone": "positive",
+          "label": null,
+          "note": null
+        },
+        {
+          "ko": "방금 올리브영에서 오징어채 부각 사먹었는데 가격에 비해 양이 너무 적어요....",
+          "en": "I just bought the dried squid strips at Olive Young and the portion is far too small for the price...",
+          "likes": 9,
+          "author": "@키티-p4g",
+          "tone": "critical",
+          "label": null,
+          "note": "Off-topic but real: Olive Young sells snacks, and the comment section treats the store as a general shop."
+        }
+      ],
+      "caveat": "Illiyoon's ceramide cream is rich — acne-prone skin should try it on the body first. Bioderma's micellar water is not a sunscreen remover on its own; the videos in this genre consistently pair it with a foam cleanse.",
+      "us_search_terms": [
+        "Bioderma Sensibio H2O micellar water",
+        "Illiyoon ceramide ato concentrate cream",
+        "Rejuran toner pad",
+        "Romand juicy lasting tint",
+        "Clio kill lash superproof mascara"
+      ],
+      "body": [
+        "The interesting thing about this haul is the comparison it makes. She shops department-store counters normally and says so up front; the Olive Young basket is the test of whether a 20,000-won product does the same job as a 90,000-won one. Twelve items later, the answer is mostly yes — with skincare taking the top half and colour makeup taking the bottom.",
+        "The skincare half is a restock list rather than a discovery list: Bioderma's micellar water, Torriden's hyaluronic serum, La Roche-Posay B5 and Bioderma Cicabio as repair creams, Illiyoon's ceramide cream, and Rejuran toner pads. The makeup half is where the sale behaviour shows — Rom&nd's Juicy Lasting Tint, Clio's Kill Lash mascara, Lilybyred's water tint — the products Korean viewers buy in multiples when the discount opens.",
+        "What the comments reveal is how fast this converts. One of the top comments is a viewer who ordered the entire list through Olive Young's same-day delivery while the video was still playing. Another, the most-liked of all, is a precise complaint that Lilybyred's tint is missing a gasket in its cap — the kind of defect report that only a comment section of regular buyers produces."
+      ],
+      "data_quality": {
+        "comments_collected": 80,
+        "transcript_source": "missing",
+        "transcript_chars": 0,
+        "analysis_source": "editorial-review",
+        "needs_review": false
+      }
+    }
+  ]
+}

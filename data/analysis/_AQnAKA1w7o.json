@@ -1,0 +1,136 @@
+{
+  "_source": "editorial-review",
+  "needs_review": false,
+  "seo_title": "Are Korean Sunscreens Safer? What 48 Products Reveal About US Filters",
+  "dek": "Korea's most-watched sunscreen ranking filters out five UV filters that are still standard in American sunscreens — and the comments argue about what that proves.",
+  "hero_emoji": "☀️",
+  "takeaway": {
+    "why_korea": "Korean shoppers read a sunscreen's ingredient table the way Americans read a nutrition label, so the annual ranking is a 25-minute, 48-product document rather than a top-ten list. This year's video opened by naming five UV filters being restricted in the EU and flagged as reef-harmful — including avobenzone and octocrylene, the backbone of many US sunscreens — and closed with separate winners for mineral, chemical, hybrid and tone-up formulas. It also carries a paid-ad label added after upload, which the top comments noticed.",
+    "best_for": "Anyone buying K-beauty sunscreen abroad or from a US K-beauty retailer; there is a distinct winner for dry, oily, acne-prone and makeup-first skin.",
+    "skip_if": "You want one single best product. The picks are split by filter type and skin type, and the most-liked complaints are about exactly that complexity and about top picks from brands nobody has heard of.",
+    "korean_price_krw": "18,000원 (Beauty of Joseon) – 36,000원 (ISOI / d'Alba)"
+  },
+  "products": [
+    {
+      "name_en": "Beauty of Joseon Relief Sun: Rice + Probiotics",
+      "name_ko": "조선미녀 맑은쌀 선크림 : 고아미+프로바이오틱스 (50ml / 18,000원)",
+      "why": "Chemical, SPF50+ PA++++, spreads evenly by hand and rated comfortable in heat with little eye sting."
+    },
+    {
+      "name_en": "numbuzin No.3 Porcelain Base-Skip Tone-Up Beige",
+      "name_ko": "넘버즈인 3번 도자기결 톤업베이지 선크림 (50ml / 26,000원)",
+      "why": "2026 top pick for foundation-replacement tone-up: semi-matte, sweat-resistant, cleansing oil required."
+    },
+    {
+      "name_en": "Arocell Mela Tranex Sun Serum",
+      "name_ko": "아로셀 멜라 트라넥스 선 세럼 (40ml / 30,000원)",
+      "why": "Dry-skin top pick built around tranexamic acid, arbutin and niacinamide for dark spots."
+    },
+    {
+      "name_en": "Fucidin Derma Trouble Zinc Calming Sunscreen",
+      "name_ko": "후시다인 더마 트러블 징크 카밍 선크림 (50ml / 26,000원)",
+      "why": "17% zinc oxide mineral pick for sensitive, acne-prone skin; applies like a lotion."
+    },
+    {
+      "name_en": "Innisfree Daily UV Tone-Up No Sebum",
+      "name_ko": "이니스프리 데일리 유브이 톤업 노세범 선크림 (50ml / 20,000원)",
+      "why": "Matte tone-up winner with no fragrance or ethanol — built for oily skin in summer."
+    }
+  ],
+  "sentiment": {
+    "positive_pct": 68,
+    "negative_pct": 20,
+    "ad_suspicion_pct": 12,
+    "method": "editorial review of 80 top comments, weighted by likes",
+    "sample_size": 80,
+    "note": "The most contested comment section of the four. Praise is for the depth; the criticism is methodological — arbitrary categories, unfamiliar winning brands, and a paid-ad label that appeared after upload."
+  },
+  "quote_specs": [
+    {
+      "match": "후기에 눈시림 여부",
+      "en": "Add 'does it sting your eyes' to the reviews — I vote for that too!",
+      "tone": "positive"
+    },
+    {
+      "match": "TOP 제품들이 너무 듣도보도",
+      "en": "The top picks are all brands I've never once heard of, so I hesitate to buy.",
+      "tone": "critical"
+    },
+    {
+      "match": "후시다인에 정착하려그랬는데",
+      "en": "I was going to settle on Fusiderm, but they don't sell it.",
+      "tone": "critical"
+    },
+    {
+      "match": "워터프르푸도 해주세요 작년 추천템",
+      "en": "Please do a waterproof edition too — last year's pick, Beplain, looks like it's been discontinued.",
+      "tone": "positive"
+    },
+    {
+      "match": "[2026년 06월 01일 공지 추가]",
+      "en": "[Notice added 1 June 2026] After this video went up on 21 May 2026, some brands asked to license the segments where their products appear, so we have added a paid-promotion disclosure to a video that originally carried none.",
+      "tone": "ad-skeptic",
+      "note": "The channel's own pinned disclosure, 38 likes — the clearest document of how K-beauty review videos get retro-labelled.",
+      "label": "Paid-ad notice"
+    }
+  ],
+  "caveat": "Several top picks are built on filters the FDA has not approved (Tinosorb S, Uvinul A Plus, Mexoryl SX), so they cannot legally be sold as US sunscreens. Importing one means the SPF on the box is a Korean test result, not an FDA one — and the zinc-only pick is the safer bet if you burn easily.",
+  "us_search_terms": [
+    "Beauty of Joseon Relief Sun rice probiotics",
+    "numbuzin No 3 tone up beige sunscreen",
+    "Arocell Mela Tranex sun serum",
+    "Fucidin derma trouble zinc calming sunscreen"
+  ],
+  "body": [
+    "American sunscreen and Korean sunscreen are not the same product category wearing different packaging. The US regulates UV filters as drugs and has approved roughly a dozen, most of them decades old; Korea approves newer, photo-stable filters that also happen to feel lighter. Director Pi opens this 25-minute ranking by naming five filters that are being restricted in the EU and flagged as harmful to marine ecosystems — avobenzone, octocrylene, ethylhexyl methoxycinnamate among them — and notes that several famous Western sunscreens are built on exactly those.",
+    "She then sorts 48 products into mineral, chemical, hybrid and tone-up groups, and picks a winner in each. For most overseas buyers the useful ones are Beauty of Joseon's Relief Sun (18,000 won, the comfortable everyday chemical option that spreads evenly by hand) and numbuzin's No.3 tone-up, which sits somewhere between sunscreen and a sheer foundation. If your skin reacts to chemical filters, the Fucidin zinc formula is the sensitive-skin pick; if you are oily, the Innisfree no-sebum tone-up is the matte one.",
+    "The comments are worth reading precisely because they do not simply applaud. The two most-liked threads ask for eye-sting data and complain that every top pick is an unknown brand — the same objection a US reader will have, since none of these are stocked at a drugstore. A separate thread catches that the video was labelled as containing paid promotion a week after upload, which the channel explains in a pinned comment. Treat the ranking as a well-documented shortlist and check the filter list yourself before you import."
+  ],
+  "comment_quotes": [
+    {
+      "ko": "후기에 눈시림 여부 포함해달라는 의견에 저도 한 표....!",
+      "en": "Add 'does it sting your eyes' to the reviews — I vote for that too!",
+      "likes": 229,
+      "author": "@littlebylittle2023",
+      "tone": "positive",
+      "label": null,
+      "note": null
+    },
+    {
+      "ko": "TOP 제품들이 너무 듣도보도 못한 브랜드뿐이라, 구입이 망설여지네요.",
+      "en": "The top picks are all brands I've never once heard of, so I hesitate to buy.",
+      "likes": 95,
+      "author": "@핑크하마",
+      "tone": "critical",
+      "label": null,
+      "note": null
+    },
+    {
+      "ko": "후시다인에 정착하려그랬는데 안 팔아요",
+      "en": "I was going to settle on Fusiderm, but they don't sell it.",
+      "likes": 13,
+      "author": "@sophiec3650",
+      "tone": "critical",
+      "label": null,
+      "note": null
+    },
+    {
+      "ko": "워터프르푸도 해주세요 작년 추천템 비플레인은 단종인가바요ㅠㅠ",
+      "en": "Please do a waterproof edition too — last year's pick, Beplain, looks like it's been discontinued.",
+      "likes": 37,
+      "author": "@hjseo7845",
+      "tone": "positive",
+      "label": null,
+      "note": null
+    },
+    {
+      "ko": "[2026년 06월 01일 공지 추가] 2026년 05월 21일 영상 업로드 이후, 일부 브랜드사에서 영상 사용 계약 요청이 와 일정 기간 브랜드사 제품이 노출된 구간 영상을 라이선스 계약을 통해 사용할 수 있도록 하였습니다. 이에 2026년 06월 01일, 유료 광고 표시가 없던 영상에 유료 광고 포함 표시를 추가하였습니다. 사용 기간이 끝나면, 유료 광고 포함 표시와 해당 글은 삭제됩니다. \n제품 : 아로셀 멜라 트라넥스 선 세럼",
+      "en": "[Notice added 1 June 2026] After this video went up on 21 May 2026, some brands asked to license the segments where their products appear, so we have added a paid-promotion disclosure to a video that originally carried none.",
+      "likes": 38,
+      "author": "@director_pihyunjung",
+      "tone": "ad-skeptic",
+      "label": "Paid-ad notice",
+      "note": "The channel's own pinned disclosure, 38 likes — the clearest document of how K-beauty review videos get retro-labelled."
+    }
+  ]
+}

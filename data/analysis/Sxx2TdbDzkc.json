@@ -1,0 +1,122 @@
+{
+  "_source": "editorial-review",
+  "needs_review": false,
+  "seo_title": "What Do Koreans Buy at an Olive Young Sale? A VIP Shopper's Cart",
+  "dek": "A shopper who normally buys at department stores empties an Olive Young cart during sale week — and viewers order the same items on the app before the video ends.",
+  "hero_emoji": "🧺",
+  "takeaway": {
+    "why_korea": "Olive Young's sale calendar sets the rhythm of Korean beauty buying, and creators race to publish 'what I actually repurchase' lists on day one of the sale. This one works because it is framed against luxury counters — a shopper who normally buys department-store brands says the Olive Young picks beat them — and because the cart mixes skincare with makeup, so it reads like a real basket rather than a sponsorship list.",
+    "best_for": "Restocking basics: a micellar cleanser, a ceramide body-and-face cream, toner pads, and a tint and mascara that survive a Korean summer.",
+    "skip_if": "You are building a routine from zero or want actives. This is a repurchase haul, not a regimen.",
+    "korean_price_krw": "10,000원대 – 30,000원대 (세일가 기준)"
+  },
+  "products": [
+    {
+      "name_en": "Bioderma Sensibio H2O",
+      "name_ko": "바이오더마 센시비오 H20",
+      "why": "Micellar water she repurchases; the comment consensus is that it needs a second cleanse."
+    },
+    {
+      "name_en": "Illiyoon Ceramide Ato Concentrate Cream",
+      "name_ko": "일리윤 세라마이드 아토 집중크림",
+      "why": "The winter saviour a commenter credits for cracked, wind-burned arms and legs."
+    },
+    {
+      "name_en": "Rejuran Toner Pad",
+      "name_ko": "리쥬란 토너패드",
+      "why": "Sale-day pad restock; commenters say they waited for the discount to buy it."
+    },
+    {
+      "name_en": "Rom&nd Juicy Lasting Tint",
+      "name_ko": "롬앤 더 쥬시 래스팅 틴트",
+      "why": "The lip that sells out whenever she shows it — viewers blame her for the stockouts."
+    },
+    {
+      "name_en": "Clio Kill Lash Superproof Mascara",
+      "name_ko": "클리오 킬래쉬 수퍼프루프 마스카라",
+      "why": "Summer-proof mascara pick; comments recommend pairing it with Clio's own remover."
+    }
+  ],
+  "sentiment": {
+    "positive_pct": 86,
+    "negative_pct": 6,
+    "ad_suspicion_pct": 8,
+    "method": "editorial review of 80 top comments, weighted by likes",
+    "sample_size": 80,
+    "note": "Purchase-intent comments dominate — people report ordering the cart minutes after watching. The single most-liked comment is a detailed packaging complaint about one tint."
+  },
+  "quote_specs": [
+    {
+      "match": "좀전에 영상보고 바로 올영 어플로",
+      "en": "I watched this and ordered the whole list on the Olive Young app for same-day delivery — it just arrived. What a world.",
+      "tone": "positive"
+    },
+    {
+      "match": "3:37 일리윤 세라마이드",
+      "en": "Illiyoon's ceramide cream at 3:37 is my winter saviour. My arms and legs crack and sting in the cold wind, and the wrong body lotion only makes it worse.",
+      "tone": "positive"
+    },
+    {
+      "match": "온니...클리오마스카라나",
+      "en": "Unnie, the Clio mascara, the cheek, the lip — everything you showed is sold out because of you. Just launch your own channel already.",
+      "tone": "positive"
+    },
+    {
+      "match": "방금 올리브영에서 오징어채",
+      "en": "I just bought the dried squid strips at Olive Young and the portion is far too small for the price...",
+      "tone": "critical",
+      "note": "Off-topic but real: Olive Young sells snacks, and the comment section treats the store as a general shop."
+    }
+  ],
+  "caveat": "Illiyoon's ceramide cream is rich — acne-prone skin should try it on the body first. Bioderma's micellar water is not a sunscreen remover on its own; the videos in this genre consistently pair it with a foam cleanse.",
+  "us_search_terms": [
+    "Bioderma Sensibio H2O micellar water",
+    "Illiyoon ceramide ato concentrate cream",
+    "Rejuran toner pad",
+    "Romand juicy lasting tint",
+    "Clio kill lash superproof mascara"
+  ],
+  "body": [
+    "The interesting thing about this haul is the comparison it makes. She shops department-store counters normally and says so up front; the Olive Young basket is the test of whether a 20,000-won product does the same job as a 90,000-won one. Twelve items later, the answer is mostly yes — with skincare taking the top half and colour makeup taking the bottom.",
+    "The skincare half is a restock list rather than a discovery list: Bioderma's micellar water, Torriden's hyaluronic serum, La Roche-Posay B5 and Bioderma Cicabio as repair creams, Illiyoon's ceramide cream, and Rejuran toner pads. The makeup half is where the sale behaviour shows — Rom&nd's Juicy Lasting Tint, Clio's Kill Lash mascara, Lilybyred's water tint — the products Korean viewers buy in multiples when the discount opens.",
+    "What the comments reveal is how fast this converts. One of the top comments is a viewer who ordered the entire list through Olive Young's same-day delivery while the video was still playing. Another, the most-liked of all, is a precise complaint that Lilybyred's tint is missing a gasket in its cap — the kind of defect report that only a comment section of regular buyers produces."
+  ],
+  "comment_quotes": [
+    {
+      "ko": "좀전에 영상보고 바로 올영 어플로 오늘드림으로 시켰더니 지금 왔네요ㅎㅎ 이토록 편한 세상이라니~~~오징어까지 목록 야무지게 쫘르르 구매완료에요^^",
+      "en": "I watched this and ordered the whole list on the Olive Young app for same-day delivery — it just arrived. What a world.",
+      "likes": 6,
+      "author": "@0여름궁전",
+      "tone": "positive",
+      "label": null,
+      "note": null
+    },
+    {
+      "ko": "3:37 일리윤 세라마이드 아토 집중크림.. 저의 겨울 구원템 입니다. 추운 겨울바람에 팔다리 살이 트고 빨게지고 따가워지는 사람인데 그럴때 다른 바디로션이나 크림 잘못 골라 바르면 더 따갑고 잘 진정되지도 않거든요.. 근데 일리윤 크림은 따가운 피부에 발라도 전혀 따갑지 않고 오히려 따가운거 진정시켜줍니다. 순하고 보습 효과도 최고예요. 일리윤 펌핑타입 바디로션보다 영상에서 소개해주신 튜브타입 크림이 찐으로 좋으니까 안써보신 분들 겨울에 꼭 써보세요!!",
+      "en": "Illiyoon's ceramide cream at 3:37 is my winter saviour. My arms and legs crack and sting in the cold wind, and the wrong body lotion only makes it worse.",
+      "likes": 6,
+      "author": "@lovelynabee",
+      "tone": "positive",
+      "label": null,
+      "note": null
+    },
+    {
+      "ko": "온니...클리오마스카라나...치크..립..등등 죄다. 언니때무네ㅋ 품절대란잉가효😅  그냥 유리하다 뷰듸❤ 채널을 하나 맹급시당ㅋ❤",
+      "en": "Unnie, the Clio mascara, the cheek, the lip — everything you showed is sold out because of you. Just launch your own channel already.",
+      "likes": 5,
+      "author": "@넛지-d8h",
+      "tone": "positive",
+      "label": null,
+      "note": null
+    },
+    {
+      "ko": "방금 올리브영에서 오징어채 부각 사먹었는데 가격에 비해 양이 너무 적어요....",
+      "en": "I just bought the dried squid strips at Olive Young and the portion is far too small for the price...",
+      "likes": 9,
+      "author": "@키티-p4g",
+      "tone": "critical",
+      "label": null,
+      "note": "Off-topic but real: Olive Young sells snacks, and the comment section treats the store as a general shop."
+    }
+  ]
+}

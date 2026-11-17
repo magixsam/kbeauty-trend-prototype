@@ -1,0 +1,137 @@
+{
+  "_source": "editorial-review",
+  "needs_review": false,
+  "seo_title": "What Does a Dermatologist Buy at Olive Young for Under $10?",
+  "dek": "A 20-year dermatologist picks five Olive Young items with one verb each — erase, fill, cover, smooth, protect — and 1.75M viewers rebuild their routine around it.",
+  "hero_emoji": "🛍️",
+  "takeaway": {
+    "why_korea": "Olive Young sale weeks are a national shopping event, and dermatologist-run channels have become the trusted filter over influencer hauls. This video is built as five verbs rather than five products, so viewers can slot it into a routine they already have, and the top comment is a viewer's own five-item recap with 547 likes — the comment section writes the shopping list for everyone else.",
+    "best_for": "Beginners assembling a first five-step routine; dry, sensitive or combination skin; anyone retinol-curious who wants the gentlest entry.",
+    "skip_if": "You want actives at prescription strength. Everything here is deliberately mild, and the retinol pick is a low-strength starter.",
+    "korean_price_krw": "10,000원대 (마녀공장 클렌징 오일) – 30,000원대 (테라로직 레티놀크림)"
+  },
+  "products": [
+    {
+      "name_en": "Ma:nyo Pure Cleansing Oil",
+      "name_ko": "마녀공장 퓨어클렌징 오일",
+      "why": "Step one, 'erase': the cleansing oil that both the doctor and the top comment start with."
+    },
+    {
+      "name_en": "Torriden Dive-In Low Molecular Hyaluronic Ampoule",
+      "name_ko": "토리든 다이브인 저분자 히알루론산 앰플",
+      "why": "Step two, 'fill': hydrating layer the comments assign to dry skin, with Wellage for oily skin."
+    },
+    {
+      "name_en": "ZEROID Intensive Cream",
+      "name_ko": "제로이드 인텐시브 크림",
+      "why": "Step three, 'cover': the barrier cream he recommends for dry and reactive skin."
+    },
+    {
+      "name_en": "Theralogic Retinol Cream (+ Madecell moisturiser)",
+      "name_ko": "테라로직 레티놀크림 (+ 마데셀 보습크림)",
+      "why": "Step four, 'smooth': a low-strength retinol built as an entry point, buffered with a cream."
+    },
+    {
+      "name_en": "Round Lab Birch Juice Moisturizing Sunscreen",
+      "name_ko": "라운드랩 자작나무 수분 선크림",
+      "why": "Step five, 'protect': organic-filter daily sunscreen — and the one product commenters push back on hardest."
+    }
+  ],
+  "sentiment": {
+    "positive_pct": 78,
+    "negative_pct": 14,
+    "ad_suspicion_pct": 8,
+    "method": "editorial review of 80 top comments, weighted by likes",
+    "sample_size": 80,
+    "note": "Trust in the doctor is high and the purchase intent is visible. The scepticism is aimed at one product (the cleansing oil) and at copy-paste promo comments pedalling unrelated ampoules."
+  },
+  "quote_specs": [
+    {
+      "match": "와 원장님 제가 쓰는 제품들",
+      "en": "Wow, doctor — almost everything I use showed up here. I've tried a bit of everything and settled on Wellage and Torriden; I'd avoided ZEROID because of the price, but it's been the best of anything I've used. It's reassuring that everything you recommend is this gentle.",
+      "tone": "positive"
+    },
+    {
+      "match": "마녀공장 클렌징오일 안맞는",
+      "en": "If the Ma:nyo cleansing oil doesn't suit you, your skin flips completely.",
+      "tone": "critical"
+    },
+    {
+      "match": "마녀공장 오일 유명해서",
+      "en": "I bought the Ma:nyo oil because it's famous, but it's so oily and suffocating. Everyone has their own match, I guess.",
+      "tone": "critical"
+    },
+    {
+      "match": "자작나무는 빼세요",
+      "en": "Drop the birch one! It stings the eyes badly, it's irritating, and it doesn't block much — there are plenty of videos testing sunscreens side by side at the same dose, and the birch one comes near last.",
+      "tone": "critical",
+      "note": "A direct counterpoint to the video's final 'protect' step, from a commenter with 10 likes."
+    },
+    {
+      "match": "저는 주름이랑 기미가 고민이라 올리브영 세일마다",
+      "en": "I always wandered the Olive Young sale unsure what to buy for wrinkles and pigmentation, until a clinic manager told me about this ampoule — now it's the only thing I use.",
+      "tone": "ad-skeptic",
+      "label": "Ad spam",
+      "note": "Copy-paste promo comment from an account plugging an unrelated ampoule; several near-identical versions rank in the top 20. Real evidence of how ad spam colonises Korean comment sections."
+    }
+  ],
+  "caveat": "Two cautions from the comment section itself: the Ma:nyo cleansing oil is the product most often named as a breakout trigger, and commenters argue the Round Lab birch sunscreen stings the eyes — patch test both before committing. The retinol is a starter strength; do not stack it with acids or prescription tretinoin.",
+  "us_search_terms": [
+    "Ma:nyo pure cleansing oil",
+    "Torriden Dive In hyaluronic acid ampoule",
+    "Zeroid intensive cream",
+    "Round Lab birch juice moisturizing sunscreen"
+  ],
+  "body": [
+    "Most routine videos fail because they assume you are starting from nothing. This one is organised around five verbs — erase, fill, cover, smooth, protect — which is why 1.75 million people watched a dermatologist walk through five Olive Young products in seventeen minutes. Each step is one product, all of them pharmacy-adjacent and mild, and the cheapest sits in the 10,000-won range.",
+    "The five are Ma:nyo's cleansing oil, a hyaluronic ampoule (Torriden for dry skin, Wellage for oily), ZEROID's barrier cream, a low-strength Theralogic retinol buffered with a moisturiser, and Round Lab's birch-juice sunscreen. What makes the video useful is the order: the retinol comes after the barrier cream, which is the sequencing most English-language retinol content skips.",
+    "The comment section does two jobs at once. The most-liked comment is a viewer's own recap of all five products with a note on which ampoule suits which skin type — effectively a free table of contents with 547 likes. And threaded among the genuine questions are two kinds of noise worth learning to spot: copy-paste promo comments pushing an unrelated ampoule, and a real disagreement about the sunscreen step, where commenters say the birch formula stings their eyes. Read the thread as a correction layer, not a fan club."
+  ],
+  "comment_quotes": [
+    {
+      "ko": "와 원장님 제가 쓰는 제품들 다 나오네요 ㅎㅎ 저는 이것저것 발라보고 웰라쥬와 토리든 쓰고있고 제로이드 가격때문에 안썼는데 이제까지 써본제품 중에 가장 좋았습니다. 지금 소개하신 제품들이 확실히 순한얘들이라서 맘에 듭니다 ㅎㅎ 정보 감사합니다 ㅎㅎ",
+      "en": "Wow, doctor — almost everything I use showed up here. I've tried a bit of everything and settled on Wellage and Torriden; I'd avoided ZEROID because of the price, but it's been the best of anything I've used. It's reassuring that everything you recommend is this gentle.",
+      "likes": 7,
+      "author": "@후들-y8n",
+      "tone": "positive",
+      "label": null,
+      "note": null
+    },
+    {
+      "ko": "마녀공장 클렌징오일 안맞는 사람은 피부 개뒤집어짐",
+      "en": "If the Ma:nyo cleansing oil doesn't suit you, your skin flips completely.",
+      "likes": 130,
+      "author": "@그림-액자",
+      "tone": "critical",
+      "label": null,
+      "note": null
+    },
+    {
+      "ko": "마녀공장 오일 유명해서 사봤는데 ..너무 오일리하고 텁텁함 다 자기한테 맞는게 있는듯",
+      "en": "I bought the Ma:nyo oil because it's famous, but it's so oily and suffocating. Everyone has their own match, I guess.",
+      "likes": 71,
+      "author": "@kkomi6034",
+      "tone": "critical",
+      "label": null,
+      "note": null
+    },
+    {
+      "ko": "자작나무는 빼세요!\n눈시림 심하고 자극적이고 차단 안되요..\n여러 선크림 동시에 같은양 발라서 테스트 하는 영상들 마니 있는데 자작나무가 거의 꼴등이에요..",
+      "en": "Drop the birch one! It stings the eyes badly, it's irritating, and it doesn't block much — there are plenty of videos testing sunscreens side by side at the same dose, and the birch one comes near last.",
+      "likes": 10,
+      "author": "@moon-light-jun",
+      "tone": "critical",
+      "label": null,
+      "note": "A direct counterpoint to the video's final 'protect' step, from a commenter with 10 likes."
+    },
+    {
+      "ko": "저는 주름이랑 기미가 고민이라 올리브영 세일마다 헤맸는데, 결국 피부과 실장님이 알려준 바‌‍데‍‌​콜‍린 앰플이 제일 효과 좋았어요. 탄력도 차오르고 잔주름이 옅어져서 이제 이것만 써요.",
+      "en": "I always wandered the Olive Young sale unsure what to buy for wrinkles and pigmentation, until a clinic manager told me about this ampoule — now it's the only thing I use.",
+      "likes": 9,
+      "author": "@소현-z6d",
+      "tone": "ad-skeptic",
+      "label": "Ad spam",
+      "note": "Copy-paste promo comment from an account plugging an unrelated ampoule; several near-identical versions rank in the top 20. Real evidence of how ad spam colonises Korean comment sections."
+    }
+  ]
+}
